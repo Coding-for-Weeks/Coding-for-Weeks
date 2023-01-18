@@ -14,7 +14,5 @@ Skills: HTML || CSS || Python || Ruby
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coding-for-Weeks)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mr-weeks/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/weeks.noah.mr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Mr_Weeks_N)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-for-Weeks&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Coding-for-Weeks)  
-
+ 
 ![Profile views](https://gpvc.arturio.dev/Coding-for-Weeks)  
