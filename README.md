@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Noah
 #### aka Coding-for-Weeks
-I'm 21 years old, I started my first company in 2020 at the age of 19. So far have made over 90k. It's still a small company but I'm trying to grow!
+I'm 22 years old, I started my first company in 2020 at the age of 19. So far have made over 90k. It's still a small company but I'm trying to grow!
 
 Skills: HTML || CSS || Python || Ruby
 
