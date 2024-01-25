@@ -7,7 +7,7 @@ Skills: HTML || CSS || Python || Ruby
 - 🔭 I’m currently working on QOQ - Quality over Quantity Pest Control Website 
 - 🌱 I’m currently learning C# 
 - 🤔 I’m looking for help with Anything you might think is helpful! 
-- 📫 How to reach me: You can reach me on my LinkedIn 
+- 📫 How to reach me: You can reach me on my Twitter 
 - 😄 Pronouns: HE/HIM 
 
 
