@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Noah
 #### aka Coding-for-Weeks
-I'm 22 years old, I started my first company in 2020 at the age of 19. So far have made over 90k. It's still a small company but I'm trying to grow!
+I'm 23 years old, I started my first company in 2020 at the age of 19. So far have made over 90k. It's still a small company but I'm trying to grow!
 
-Skills: HTML || CSS || Python || Ruby
+Skills: HTML || CSS || Javascript || Ruby || Python || C#
 
-- 🔭 I’m currently working on QOQ - Quality over Quantity Pest Control Website 
-- 🌱 I’m currently learning C# 
+- 🔭 I’m currently working on my OSCP - Offensive Security Certified Professional. 
+- 🌱 I’m currently learning Bash 
 - 🤔 I’m looking for help with Anything you might think is helpful! 
-- 📫 How to reach me: You can reach me on my Twitter 
+- 📫 How to reach me: weeks.it.solutions@gmail.com 
 - 😄 Pronouns: HE/HIM 
 
 
