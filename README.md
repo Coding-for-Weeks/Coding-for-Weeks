@@ -40,10 +40,7 @@ My technical skills reflect my dedication to both frontend and backend developme
 
 ## 📱 Let's Connect
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub profile' height='30'>](https://github.com/Coding-for-Weeks)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn profile' height='30'>](https://www.linkedin.com/in/mr-weeks/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram profile' height='30'>](https://www.instagram.com/weeks.noah.mr/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter profile' height='30'>](https://twitter.com/Mr_Weeks_N)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub profile' height='30'>](https://github.com/Coding-for-Weeks) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn profile' height='30'>](https://www.linkedin.com/in/mr-weeks/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram profile' height='30'>](https://www.instagram.com/weeks.noah.mr/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter profile' height='30'>](https://twitter.com/Mr_Weeks_N)
 
 ---
 
