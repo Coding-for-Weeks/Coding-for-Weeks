@@ -39,5 +39,3 @@ Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepren
 ## 📸 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-for-Weeks&show_icons=true&theme=tokyonight)
-
-![Profile views](https://gpvc.arturio.dev/Coding-for-Weeks)
