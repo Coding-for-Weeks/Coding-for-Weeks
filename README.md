@@ -2,14 +2,14 @@
 
 ### Software Developer | Aspiring OSCP | Entrepreneur
 
-Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepreneur passionate about technology, security, and creating impactful solutions. At the age of 19, I launched my first company and have since generated over $90,000 in revenue. While it's still a growing venture, I'm committed to scaling it further and embracing new challenges along the way.
+Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepreneur. I am passionate about technology, security, and creating impactful solutions. At the age of 19, I launched my first company, specializing in IT solutions and digital services, and have since generated over $90,000 in revenue. While it's still a growing venture, I'm committed to scaling it further and embracing new challenges along the way.
 
 ---
 
 ## 📝 About Me
 
 - 🔧 **Currently Working On:** OSCP (Offensive Security Certified Professional) certification.
-- 🤓 **Currently Learning:** Bash scripting to enhance my cybersecurity and automation skills.
+- 🤓 **Currently Learning:** Bash scripting to enhance my cybersecurity and automation skills, focusing on writing scripts for penetration testing and automating repetitive tasks.
 - 💡 **Looking For:** Guidance and collaboration opportunities in software development, cybersecurity, and entrepreneurship.
 - 📧 **Contact Me:** [weeks.it.solutions@gmail.com](mailto:weeks.it.solutions@gmail.com)
 - 😄 **Pronouns:** He/Him
@@ -18,12 +18,19 @@ Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepren
 
 ## 📚 Skills
 
+### Frontend Development
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+### Backend Development
 ![Ruby](https://img.shields.io/badge/Ruby-Dynamic-red)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![C#](https://img.shields.io/badge/C%23-.NET-purple)
+
+### Scripting & Automation
+![Bash](https://img.shields.io/badge/Bash-Scripting-black)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue)
 
 ---
 
@@ -39,3 +46,4 @@ Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepren
 ## 📸 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-for-Weeks&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-for-Weeks&layout=compact&theme=tokyonight)
