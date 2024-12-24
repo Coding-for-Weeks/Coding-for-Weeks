@@ -2,14 +2,16 @@
 
 ### Software Developer | Aspiring OSCP | Entrepreneur
 
-Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepreneur. I am passionate about technology, security, and creating impactful solutions. At the age of 19, I launched my first company, specializing in IT solutions and digital services, and have since generated over $90,000 in revenue. While it's still a growing venture, I'm committed to scaling it further and embracing new challenges along the way.
+Welcome to my GitHub profile! I am a passionate 23-year-old software developer and entrepreneur focused on technology, cybersecurity, and creating impactful solutions. At 19, I founded a company specializing in IT solutions and digital services. While still growing, I am dedicated to scaling its success and embracing new challenges.
 
 ---
 
 ## 📝 About Me
 
 - 🔧 **Currently Working On:** OSCP (Offensive Security Certified Professional) certification.
-- 🤓 **Currently Learning:** Bash scripting to enhance my cybersecurity and automation skills, focusing on writing scripts for penetration testing and automating repetitive tasks.
+- 🤓 **Currently Learning:**
+  - Bash scripting to enhance my cybersecurity skills by writing scripts for penetration testing.
+  - Automating repetitive tasks to improve workflow efficiency.
 - 💡 **Looking For:** Guidance and collaboration opportunities in software development, cybersecurity, and entrepreneurship.
 - 📧 **Contact Me:** [weeks.it.solutions@gmail.com](mailto:weeks.it.solutions@gmail.com)
 - 😄 **Pronouns:** He/Him
@@ -17,6 +19,8 @@ Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepren
 ---
 
 ## 📚 Skills
+
+My technical skills reflect my dedication to both frontend and backend development, as well as scripting and automation, aligning with my goals as a versatile software developer and aspiring security professional.
 
 ### Frontend Development
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
@@ -46,4 +50,7 @@ Welcome to my GitHub profile! I'm a 23-year-old software developer and entrepren
 ## 📸 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-for-Weeks&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-for-Weeks&layout=compact&theme=tokyonight)
+
+These top languages highlight my primary areas of development and reflect the tools I use most frequently in my projects.
