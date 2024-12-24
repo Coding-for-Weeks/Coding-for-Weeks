@@ -46,8 +46,6 @@ My technical skills reflect my dedication to both frontend and backend developme
 
 ## 📸 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-for-Weeks&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-for-Weeks&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coding-for-Weeks&show_icons=true&theme=tokyonight)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-for-Weeks&layout=compact&theme=tokyonight)
 
 These top languages highlight my primary areas of development and reflect the tools I use most frequently in my projects.
